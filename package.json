@@ -33,7 +33,6 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
-    "rxjs": "^5.2.0",
     "ts-loader": "^1.2.2",
     "typescript": "^2.0.10"
   }
