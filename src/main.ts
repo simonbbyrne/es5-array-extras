@@ -1,7 +1,7 @@
 
 // ES5 Array Extras
 /*
-There are nine new functions for searching and manipulating arrays in ES5
+There are nine functions for searching and manipulating arrays in ES5
 1) Array.prototype.indexOf
 2) Array.prototype.lastIndexOf
 3) Array.prototype.every
